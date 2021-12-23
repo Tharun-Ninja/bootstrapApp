@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bootstrapApp/static/css/main.1a8a0596.css",
-    "main.js": "/bootstrapApp/static/js/main.56020f45.js",
+    "main.js": "/bootstrapApp/static/js/main.ea069f8c.js",
     "static/js/787.fbc87cbf.chunk.js": "/bootstrapApp/static/js/787.fbc87cbf.chunk.js",
     "index.html": "/bootstrapApp/index.html",
     "main.1a8a0596.css.map": "/bootstrapApp/static/css/main.1a8a0596.css.map",
-    "main.56020f45.js.map": "/bootstrapApp/static/js/main.56020f45.js.map",
+    "main.ea069f8c.js.map": "/bootstrapApp/static/js/main.ea069f8c.js.map",
     "787.fbc87cbf.chunk.js.map": "/bootstrapApp/static/js/787.fbc87cbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.56020f45.js"
+    "static/js/main.ea069f8c.js"
   ]
 }
