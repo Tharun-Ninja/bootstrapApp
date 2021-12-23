@@ -5,7 +5,7 @@ import { Button } from 'react-bootstrap';
 function App() {
   return (
     <div className="App">
-      <Button className='m-5 btn-warning text-dark'>This should work</Button>
+      <Button>This should work</Button>
     </div>
   );
 }
